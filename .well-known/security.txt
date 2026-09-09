@@ -1,0 +1,8 @@
+# Security policy for Project Real (projectreal.gg)
+# https://www.rfc-editor.org/rfc/rfc9116
+
+Contact: mailto:support@projectreal.gg
+Contact: https://discord.gg/projectreal
+Expires: 2027-06-23T00:00:00.000Z
+Preferred-Languages: en, de
+Canonical: https://projectreal.gg/.well-known/security.txt
