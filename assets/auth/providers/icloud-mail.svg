@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" aria-hidden="true">
+  <defs>
+    <linearGradient id="icloud" x1="50" x2="206" y1="40" y2="216" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#56CCF2"/>
+      <stop offset="1" stop-color="#2F80ED"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#icloud)"/>
+  <path fill="#fff" d="M82.4 184h89.2c24.7 0 44.4-19 44.4-42.8 0-22.1-17.3-40.3-39.6-42.5C169.8 75 149.8 58 126.2 58c-28.5 0-52.4 22.8-55 51.6C53.4 114.5 40 129.7 40 147.6 40 167.6 57.1 184 82.4 184Z"/>
+</svg>
